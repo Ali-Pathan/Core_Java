@@ -1,0 +1,31 @@
+Car car = new Car(); in this line new Car is a Object and c is a object reference variable.
+public void test()in this line new test is a Non static Method
+	{
+}
+
+String Escape / Unescape.
+
+Horizontal Tab is replaced with \t
+Vertical Tab is replaced with \v
+Nul char is replaced with \0
+Backspace is replaced with \b
+Form feed is replaced with \f
+Newline is replaced with \n
+Carriage return is replaced with \r
+Single quote is replaced with \'
+Double quote is replaced with \"
+Backslash is replaced with \\
+******************************************************
+Shortcuts
+
+1) auto-format code in Eclipse: On Windows and Linux : Ctrl + Shift + F On Mac : ⌘ + ⇧ + F.
+2) comment multiple line ⌘ + /
+
+******************************************************
+Input From user
+
+Scanner input = new Scanner(System.in);
+	int i = input.nextInt() (where Number is a variable.)
+	
+*******************************************************
+To link with parent class Class extends and To link with Interface implements.
